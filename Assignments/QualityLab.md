@@ -1,12 +1,12 @@
-#Quality Lab
+# Quality Lab
 
-##Game One: Red Dead Redemption 2
-
-
-##Game Two: Left 4 Dead 2
+## Game One: Red Dead Redemption 2
 
 
-##Game Three: Assassin's Creed: Brotherhood
+## Game Two: Left 4 Dead 2
+
+
+## Game Three: Assassin's Creed: Brotherhood
   Compared to other games coming out during its release, Assassin's Creed: Brotherhood (ACB)
 had average graphics meaning it wasn't the most groundbreaking and detailed nor was it bad 
 and low quality. However, the game still looked amazing and had over a hundred npcs 
