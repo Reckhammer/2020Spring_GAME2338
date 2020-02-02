@@ -23,7 +23,18 @@ Overall, RDR2 could be considered one of the greatest games of the decade. The a
 details and exemplary game modes goes beyond what players expect for even triple A games.
 
 ## Game Two: Left 4 Dead 2
+Left 4 Dead 2 (L4D2) is actually a simple game. Your team has to get to the safe room no 
+matter the cost, but despite its simplicity, each run of a L4D2 campaign is different. This
+is because of the varying factors such as random items spawns and random spawns of enemies.
+This even includes the nearly invincible Tank and the Witch, an enemy that can one shot the
+fool who startles her. These factors rack up the difficulty by throwing the unexpected, and
+quite often, this leads to the panic and betrayal of teammates which lives up to the game's
+namesake. This abandoning of the team typically ends in the team losing since teamwork is the 
+only way to escape from from the clutches of the undead. This game presents a fun, 
+challenging experience.
 
+This is a good game because the varying factors always leads to exciting gameplay and the
+reliance and, sometimes, abandoning on the team decides victory.
 
 ## Game Three: Assassin's Creed: Brotherhood
 Compared to other games coming out during its release, Assassin's Creed: Brotherhood (ACB)
