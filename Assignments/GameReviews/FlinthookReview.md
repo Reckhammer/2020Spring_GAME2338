@@ -3,20 +3,26 @@
 ## Details
 
 ### Game Title
+Title: Flinthook
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Developer/Publisher: Tribute Games Inc.
+
+Available on Microsoft Store, Steam
 
 ### Rating
-
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+5 out of 10 stars
 
 ## Summary
 
 This game is about... this should be at least 3-4 paragraphs summarizing the
 game play mechanics of the game. You should be answering the who, what,
 when, where, why, and how of the game itself.
+
+Become the infamous space pirate, Captain Flinthook, and pillage procedurely
+generated ships with your trusty grappling hook, chronobelt, and blasma pistol.
+You plunder ships for gold, loot, and skills, but the ships are guarded by swarms
+of enemies and bosses.
+
 
 ## Final Thoughts
 
